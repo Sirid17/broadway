@@ -34,3 +34,15 @@ a {
 .column p {
   font-size: 14px;
 }
+
+h3.special {
+  background-image: url(../img/the-flatiron-building.png);
+  color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
+  color: white;
+}
